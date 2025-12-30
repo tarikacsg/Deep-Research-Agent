@@ -33,7 +33,7 @@ The system is built as a **modular, multi-agent pipeline**, where each agent has
 - **Elaboration Agent**  
   Enhances clarity, depth, structure, and academic rigor  
 
-- **Follow-Up Question Agent (NEW)**  
+- **Follow-Up Question Agent **  
   Identifies gaps, unresolved debates, and future directions, and generates structured follow-up research questions  
 
 This separation improves interpretability, extensibility, and research quality.
@@ -67,7 +67,7 @@ Final reports include:
 
 ---
 
-### ❓ Follow-Up Research Questions (NEW)
+### ❓ Follow-Up Research Questions 
 
 After generating the final enhanced report, the system automatically proposes **high-quality follow-up research questions**, categorized into:
 
